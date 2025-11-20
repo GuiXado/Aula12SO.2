@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aula12SO</string>
+    <string name="hint_a">Enter value A</string>
+    <string name="hint_b">Enter value B</string>
+    <string name="hint_c">Enter value C</string>
+    <string name="calc">Calculate</string>
+    <string name="ne">Not a quadratic equation (a = 0)</string>
+    <string name="ntr">This equation has no real solutions</string>
+    <string name="delta">The delta is: </string>
+    <string name="x1">X1 is: </string>
+    <string name="x2">X2 is: </string>
+</resources>
